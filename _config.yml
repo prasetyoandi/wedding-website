@@ -1,0 +1,9 @@
+collections:
+  portfolio:
+
+title: PA's Website
+description: Website about Solar Chapter
+url: "https://prasetyoandi.github.io/wedding-website"
+github_username: prasetyoandi
+plugins:
+  - jekyll-feed
