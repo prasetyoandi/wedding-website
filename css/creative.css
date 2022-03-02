@@ -85,7 +85,7 @@ p {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-image: url(https://prasetyoandi.github.io/img/bg.jpg);
+    background-image: url(https://prasetyoandi.github.io/wedding-website/img/bg.jpg);
     /* background-size: 100% 100%; */
     background-size: contain;
     background-attachment: fixed;
@@ -235,7 +235,7 @@ header {
     min-height: 450px;
     text-align: center;
     color: #fff;
-    background-image: url(https://prasetyoandi.github.io/img/portfolio/begron.jpeg);
+    background-image: url(https://prasetyoandi.github.io/wedding-website/img/portfolio/begron.jpeg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
